@@ -1,0 +1,3 @@
+#ignore cpp builds
+.o
+.exe
